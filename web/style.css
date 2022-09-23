@@ -1,0 +1,30 @@
+body{
+    background-color: #7300ff;
+}
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 1px;
+    overflow: hidden;
+    background-color: #8842d5;
+    display: flex;
+    justify-content: center;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+/* A color changes when hovered over */
+li a:hover {
+    background-color: #7300ff;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
